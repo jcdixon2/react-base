@@ -1,0 +1,4 @@
+axios express react react-addons-test-utils react-dom react-router
+
+babel-core babel-loader babel-preset-es2015 babel-preset-react babel-preset-stage-0 css-loader expect foundation-sites jquery karma
+karma-chrome-launcher karma-mocha karma-mocha-reporter karma-sourcemap-loader karma-webpack mocha node-sass sass-loader script-loader style-loader webpack
